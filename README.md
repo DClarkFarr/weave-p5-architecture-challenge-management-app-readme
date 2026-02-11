@@ -4,7 +4,7 @@
 
 # UI/Design Wireframe
 
-![Project Management App Design Mocks](project-management-appmain-app.jpg)
+![Project Management App Design Mocks](project-management-app-main-app.jpg)
 
 # Data Sources
 
